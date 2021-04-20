@@ -1,2 +1,4 @@
 # MotionSymphony_ExampleProject
-This repository contains an example project of how Motion Symphony should be used. It does not contain the plugin itself.
+This repository contains an example project of how Motion Symphony should be used.
+
+Note: This project does not contain the Motion Symphony plugin itself. The plugin needs to be purchased and installed separately.
