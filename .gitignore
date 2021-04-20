@@ -72,3 +72,17 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Plastic SCM
+.plastic/*
+
+# MotionSymphony Plugin
+Plugins/*
+
+# Content Not To Share
+Content/MovementAnimsetPro
+Content/OpenWorldAnimset
+Content/Spec_Ops_01
+Content/Hangar
+Content/Frank_Fighting_Set3
+Content/Data/KuboldTest
