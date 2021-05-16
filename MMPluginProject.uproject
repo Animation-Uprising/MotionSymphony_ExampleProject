@@ -12,10 +12,6 @@
 	],
 	"Plugins": [
 		{
-			"Name": "MotionSymphony",
-			"Enabled": true
-		},
-		{
 			"Name": "GameplayInsights",
 			"Enabled": true
 		},
@@ -25,6 +21,10 @@
 		},
 		{
 			"Name": "TraceDataFilters",
+			"Enabled": true
+		},
+		{
+			"Name": "MotionSymphony",
 			"Enabled": true
 		}
 	]
