@@ -11,39 +11,62 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../MotionMatchingForUnity/Assets/FakeNetworkControl.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/Data/AnimChannelState.cpp" />
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/AnimGraph/AnimGraphNode_DistanceMatching.cpp" />
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/AnimGraph/AnimGraphNode_MultiPoseMatching.cpp" />
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/AnimGraph/AnimGraphNode_PoseMatching.cpp" />
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/AnimGraph/AnimGraphNode_TransitionMatching.cpp" />
       <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/MotionMatchingUtil/KMeansClustering.cpp" />
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/Data/MotionAnimAsset.cpp" />
       <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/GUI/Controls/MotionModel_AnimComposite.cpp" />
       <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/GUI/Widgets/SMotionTagPanel.h" />
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/Components/TrajectoryGenerator_Base.h" />
       <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/GUI/Widgets/SMotionTagPanel.cpp" />
       <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/GUI/Controls/MotionTimeSliderController.cpp" />
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/AnimGraph/AnimNode_DistanceMatching.cpp" />
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/AnimGraph/AnimNode_DistanceMatching.h" />
       <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/AnimGraph/AnimNode_MotionMatching.h" />
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/AnimGraph/AnimNode_PoseMatchBase.h" />
       <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/AnimGraph/AnimNode_PoseMatching.h" />
       <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/AnimGraph/AnimNode_TimeMatching.h" />
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/AnimGraph/AnimNode_TransitionMatching.h" />
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/AnimGraph/AnimNode_MotionMatching.cpp" />
       <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/AnimGraph/AnimNode_MotionRecorder.h" />
       <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/AnimGraph/AnimNode_MotionRecorder.cpp" />
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/AnimGraph/AnimNode_PoseMatchBase.cpp" />
       <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/AnimGraph/AnimNode_TimeMatching.cpp" />
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/AnimGraph/AnimNode_TransitionMatching.cpp" />
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/Components/DistanceMatching.cpp" />
       <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/Components/TrajectoryErrorWarping.cpp" />
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/Components/TrajectoryGenerator.cpp" />
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/Components/TrajectoryGenerator_Base.cpp" />
-      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/AnimGraph/AnimNode_MultiPoseMatching.cpp" />
       <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/MotionMatchingUtil/PoseLookupTable.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/Data/MotionAnimAsset.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/Enumerations/EMMPreProcessEnums.h" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/MotionMatchingUtil/MMBlueprintFunctionLibrary.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/CustomAssets/MotionMatchConfig.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/CustomAssets/MotionMatchConfig.h" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/MotionMatchingUtil/MMBlueprintFunctionLibrary.h" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/Toolkits/MotionPreProcessToolkitViewport.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/Toolkits/MotionPreProcessToolkitViewportClient.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/CustomAssets/MMOptimisation_MultiClustering.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/Components/TrajectoryGenerator_Base.h" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/Components/TrajectoryGenerator_Base.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/Data/InputProfile.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/Data/InputProfile.h" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/Components/TrajectoryGenerator.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/AnimGraph/AnimNode_PoseMatchBase.h" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/AnimGraph/DistanceMatchingNodeBase.h" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/Components/DistanceMatching.h" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/AnimGraph/DistanceMatchingNodeBase.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/AnimGraph/AnimNode_PoseMatchBase.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/AnimGraph/AnimNode_DistanceMatching.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/AnimGraph/AnimNode_DistanceMatching.h" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/AnimGraph/DistanceMatchingNodeData.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/AnimGraph/DistanceMatchingNodeData.h" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/AnimGraph/AnimNode_MultiPoseMatching.h" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Public/AnimGraph/AnimNode_TransitionMatching.h" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/Components/DistanceMatching.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/AnimGraph/AnimNode_MultiPoseMatching.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/AnimGraph/AnimNode_TransitionMatching.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/Toolkits/MotionPreProcessToolkit.h" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/Toolkits/MotionPreProcessorToolkitCommands.h" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/Toolkits/MotionPreProcessorToolkitCommands.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/GUI/Dialogs/AddNewAnimDialog.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/CustomAssets/MotionDataAsset.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/Toolkits/MotionPreProcessToolkit.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/GUI/Controls/MotionModel.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/AnimGraph/AnimNode_MotionMatching.cpp" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/GUI/Widgets/SAnimList.h" />
+      <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/GUI/Widgets/SAnimList.cpp" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1tSqLTo3QWg6Nk31vunmRk0vBDX" />
@@ -52,7 +75,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.2583537" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.19315404" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -491,7 +514,82 @@
       <workItem from="1623635437949" duration="1188000" />
       <workItem from="1623740180343" duration="1395000" />
       <workItem from="1623805566936" duration="3861000" />
-      <workItem from="1623814730025" duration="406000" />
+      <workItem from="1623814730025" duration="1013000" />
+      <workItem from="1623891383428" duration="4729000" />
+      <workItem from="1624229704005" duration="10913000" />
+      <workItem from="1624243549260" duration="387000" />
+      <workItem from="1624327690203" duration="7505000" />
+      <workItem from="1624354945642" duration="2342000" />
+      <workItem from="1624357806954" duration="2780000" />
+      <workItem from="1624410209371" duration="5076000" />
+      <workItem from="1624854842837" duration="1948000" />
+      <workItem from="1625103467255" duration="4302000" />
+      <workItem from="1626064309830" duration="399000" />
+      <workItem from="1626146345869" duration="598000" />
+      <workItem from="1626662307136" duration="2879000" />
+      <workItem from="1626708252462" duration="115000" />
+      <workItem from="1626743679482" duration="7341000" />
+      <workItem from="1626913353995" duration="1463000" />
+      <workItem from="1626916668622" duration="4473000" />
+      <workItem from="1626927864345" duration="1190000" />
+      <workItem from="1627260636198" duration="8256000" />
+      <workItem from="1627270255495" duration="5000" />
+      <workItem from="1627270310189" duration="4820000" />
+      <workItem from="1627280826058" duration="587000" />
+      <workItem from="1627432883979" duration="7182000" />
+      <workItem from="1627528995028" duration="1686000" />
+      <workItem from="1627624166054" duration="596000" />
+      <workItem from="1627862619245" duration="282000" />
+      <workItem from="1627865196742" duration="4429000" />
+      <workItem from="1628048479811" duration="340000" />
+      <workItem from="1628053932694" duration="319000" />
+      <workItem from="1628054296707" duration="1144000" />
+      <workItem from="1628057657195" duration="968000" />
+      <workItem from="1628124788520" duration="1441000" />
+      <workItem from="1628127615024" duration="1006000" />
+      <workItem from="1628469124461" duration="22385000" />
+      <workItem from="1628562916792" duration="1825000" />
+      <workItem from="1628652906580" duration="7095000" />
+      <workItem from="1628733311946" duration="739000" />
+      <workItem from="1628825071384" duration="6688000" />
+      <workItem from="1629093032535" duration="657000" />
+      <workItem from="1629246567828" duration="6708000" />
+      <workItem from="1629862768073" duration="238000" />
+      <workItem from="1629863842041" duration="1211000" />
+      <workItem from="1629937069210" duration="4785000" />
+      <workItem from="1630306987481" duration="1195000" />
+      <workItem from="1630309200768" duration="847000" />
+      <workItem from="1630474960903" duration="724000" />
+      <workItem from="1630637539096" duration="840000" />
+      <workItem from="1630907441672" duration="590000" />
+      <workItem from="1630977375643" duration="1158000" />
+      <workItem from="1630979228558" duration="329000" />
+      <workItem from="1630979613774" duration="153000" />
+      <workItem from="1631067796627" duration="1730000" />
+      <workItem from="1631070765826" duration="75000" />
+      <workItem from="1631071223574" duration="3921000" />
+      <workItem from="1631504562399" duration="1925000" />
+      <workItem from="1631514072932" duration="635000" />
+      <workItem from="1631579500249" duration="3125000" />
+      <workItem from="1631662335960" duration="13900000" />
+      <workItem from="1631774565721" duration="595000" />
+      <workItem from="1632187745134" duration="3929000" />
+      <workItem from="1632276480359" duration="632000" />
+      <workItem from="1632358033192" duration="7251000" />
+      <workItem from="1632708233672" duration="7309000" />
+      <workItem from="1633068339131" duration="699000" />
+      <workItem from="1634178403736" duration="5539000" />
+      <workItem from="1634186865997" duration="4337000" />
+      <workItem from="1634702982116" duration="699000" />
+      <workItem from="1634703819187" duration="5646000" />
+      <workItem from="1634786912726" duration="4423000" />
+      <workItem from="1634814539720" duration="3787000" />
+      <workItem from="1634885076807" duration="3670000" />
+      <workItem from="1635726077762" duration="1127000" />
+      <workItem from="1635728056588" duration="8152000" />
+      <workItem from="1636938232833" duration="8420000" />
+      <workItem from="1636954548628" duration="8105000" />
+      <workItem from="1638452716548" duration="1262000" />
     </task>
     <servers />
   </component>
@@ -504,9 +602,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphony/Private/AnimGraph/AnimNode_TransitionMatching.cpp</url>
-          <line>211</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/GUI/Widgets/SMotionTimeline.cpp</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
