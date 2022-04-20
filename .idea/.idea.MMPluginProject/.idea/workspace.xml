@@ -69,6 +69,9 @@
       <option value="$PROJECT_DIR$/Plugins/MotionSymphony/Source/MotionSymphonyEditor/Private/GUI/Widgets/SAnimList.cpp" />
     </changedPaths>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1tSqLTo3QWg6Nk31vunmRk0vBDX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -81,6 +84,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="C++ Project.MMPluginProject">
     <configuration name="MMPluginProject" type="CppProject" factoryName="C++ Project">
@@ -590,9 +594,14 @@
       <workItem from="1636938232833" duration="8420000" />
       <workItem from="1636954548628" duration="8105000" />
       <workItem from="1638452716548" duration="1262000" />
+      <workItem from="1641963737907" duration="1522000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
