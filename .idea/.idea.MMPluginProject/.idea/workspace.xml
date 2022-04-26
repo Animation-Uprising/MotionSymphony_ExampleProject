@@ -14,6 +14,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../MotionMatchingForUnity/Assets/FakeNetworkControl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://D:/Dev/Epic Games/UE_4.27/Engine/Source/Editor/AnimGraph/Classes/AnimGraphNode_Base.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://D:/Dev/Epic Games/UE_4.27/Engine/Source/Editor/AnimGraph/Classes/AnimGraphNode_AssetPlayerBase.h" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -754,6 +756,11 @@
       <workItem from="1638452716548" duration="1262000" />
       <workItem from="1641963737907" duration="1522000" />
       <workItem from="1650428024737" duration="200000" />
+      <workItem from="1650428589774" duration="618000" />
+      <workItem from="1650522385739" duration="5452000" />
+      <workItem from="1650673889541" duration="2962000" />
+      <workItem from="1650716953220" duration="103000" />
+      <workItem from="1650717136121" duration="244000" />
     </task>
     <servers />
   </component>
