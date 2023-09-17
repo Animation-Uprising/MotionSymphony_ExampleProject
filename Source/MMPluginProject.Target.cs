@@ -1,4 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+//Copyright 2020-2023 Kenneth Claassen. All Rights Reserved.
 
 using UnrealBuildTool;
 using System.Collections.Generic;
