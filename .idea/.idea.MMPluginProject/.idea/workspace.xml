@@ -15,6 +15,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/thirdparty/ordered-map/include/tsl/ordered_hash.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://F:/Epic Games/UE_5.3/Engine/Source/Developer/GraphColor/Private/graphExtensions.private.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://F:/Epic Games/UE_5.3/Engine/Source/Developer/GraphColor/Private/graphUtils.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://F:/Epic Games/UE_5.3/Engine/Source/Developer/GraphColor/Private/stack.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://F:/Epic Games/UE_5.3/Engine/Source/Developer/GraphColor/Private/stack.h" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -157,6 +170,9 @@
       <workItem from="1695794804545" duration="602000" />
       <workItem from="1695815816846" duration="354000" />
       <workItem from="1696044879143" duration="1423000" />
+      <workItem from="1700872728318" duration="4454000" />
+      <workItem from="1701147561357" duration="1255000" />
+      <workItem from="1701159557573" duration="1971000" />
     </task>
     <servers />
   </component>
