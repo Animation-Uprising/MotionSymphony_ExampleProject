@@ -1,4 +1,4 @@
-# MotionSymphony Example Project & Issue Tracker
+# MotionSymphony Example Project (OLD)
 This repository contains an example project for motion symphony with animation and blueprint samples.
 
 **New Example Project:** A new Example Project for MS2.0+ and UE5.3+ is now available. If you are using Motion Symphony 2.0, I highly recommend using the new example project linked here instead: https://github.com/Animation-Uprising/MoSymph2.0-Example-Project
